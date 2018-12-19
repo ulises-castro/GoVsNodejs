@@ -1,4 +1,4 @@
-# GoVsNodejs
+# Go vs Nodejs
 List of several articles/comments about Go versus Nodejs
 
 
