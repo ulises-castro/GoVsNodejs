@@ -9,3 +9,5 @@ https://medium.com/javascript-non-grata/the-fall-of-the-house-of-node-43697fd56a
 http://callbackhell.com/
 
 https://www.hostingadvice.com/blog/nodejs-vs-golang/
+
+https://belitsoft.com/nodejs-development-services/go-vs-nodejs
